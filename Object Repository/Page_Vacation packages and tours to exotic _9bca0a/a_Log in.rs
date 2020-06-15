@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='innerHeader']/div[6]/div/div/div/div/a</value>
+         <value>//*[@id=&quot;innerHeader&quot;]/div[4]/div[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

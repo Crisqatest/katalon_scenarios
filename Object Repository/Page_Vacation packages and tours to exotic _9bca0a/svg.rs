@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[1]/following::*[name()='svg'][1]</value>
+         <value>//*[@id=&quot;innerHeader&quot;]/div[6]/div/div/div/div/a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
